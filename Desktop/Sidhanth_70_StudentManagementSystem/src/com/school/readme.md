@@ -6,3 +6,7 @@
 ## Declare the Main class inside the file.
 ## Give the command  javac src/com/school/Main.java
 ## Run the class to ensure the working.
+
+## Code-Along-Project 
+## compile -- javac src/com/school/Main
+## run -- Java Main.java or Run ( button )
